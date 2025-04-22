@@ -1,0 +1,4 @@
+sample concentration data; 
+  
+dc 540 (mg/mL);;; di 540 (mg/mL);;; relative difference dc/di (percentage);;; dc 595 (mg/mL);;; di 595 (mg/mL);;; relative difference dc/di (percentage);;; 
+-0.0001;0.0004;-0.0000;-0.0001;0.0013;0.0010;0.0353;277.9525;3639.7571;0.0116;0.0088;0.0073;0.0119;0.0079;0.0012;2.3918;9.5103;82.9935;

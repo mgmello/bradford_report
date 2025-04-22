@@ -1,0 +1,5 @@
+experimental curves statistical data; 
+  
+data type; dc/540 pearson dilution; di/540 pearson dilution; dc/595 pearson dilution; di/595 pearson dilution; dc/di 540 t; dc/di 595 t; dc 540/595 t2; di 540/595 t2; white t; white 540 pearson; white 595 pearson; 
+results; -0.3273; -0.8417; 0.9997; 0.9264; 0.0000; 0.0000; 1.0000; 0.0000; 1.0000; 0.9416; 0.9858; 
+pvalues; 0.7877; 0.3631; 0.0149; 0.2459; 0.1844; 0.3883; 0.0004; 0.0604; 0.0007; 0.0001; 0.0000;
